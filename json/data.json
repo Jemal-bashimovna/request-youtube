@@ -1,0 +1,56 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "0lc7FfHJOmTbe81NAP3EtAV8b1Y",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "0ROMSFt6SJSi0zEuEOM9dZW33iM",
+      "id": "PLMFUaRAk0WsYs2KaR-67iYW4hVaZ48onA",
+      "snippet": {
+        "publishedAt": "2023-02-01T17:59:26Z",
+        "channelId": "UCqk3CdGN_j8IR9z4uBbVPSg",
+        "title": "LANA DEL REY - NORMAN F***NG ROCKWELL!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/soRjcajliHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/soRjcajliHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/soRjcajliHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/soRjcajliHE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/soRjcajliHE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lana Del Rey",
+        "localized": {
+          "title": "LANA DEL REY - NORMAN F***NG ROCKWELL!",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 14
+      }
+    }
+  ]
+}
